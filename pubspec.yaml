@@ -1,0 +1,9 @@
+name: empirical
+author: Paul Roskell <blurrech@gmail.com>
+description: A very basic unfinished game development API for creating 2D games for the web.
+dependencies:
+  browser: any
+dev_dependencies:
+  build_runner: ^0.10.0
+  build_web_compilers: ^0.4.0
+  webdev: any
